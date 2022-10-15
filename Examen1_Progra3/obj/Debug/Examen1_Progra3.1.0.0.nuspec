@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Examen1_Progra3</id>
+    <version>1.0.0</version>
+    <authors>Examen1_Progra3</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\carlo\source\repos\Examen1_Progra3\Examen1_Progra3\bin\Debug\net6.0\Examen1_Progra3.runtimeconfig.json" target="lib\net6.0\Examen1_Progra3.runtimeconfig.json" />
+    <file src="C:\Users\carlo\source\repos\Examen1_Progra3\Examen1_Progra3\bin\Debug\net6.0\Examen1_Progra3.dll" target="lib\net6.0\Examen1_Progra3.dll" />
+  </files>
+</package>
